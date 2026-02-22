@@ -12,4 +12,4 @@ struct Move {
     Move(std::string f, std::string t, int d) : from(f), to(t), diskSize(d) {}
 };
 
-#endif // MOVE_H
+#endif // MOVE_H finish
